@@ -23,7 +23,15 @@ module.exports = {
 		logo: 'https://drive.google.com/uc?export=view&id=1J0_j_Dng6E-3PQNP_xFM_AEd8YGoFyz3',
 		docsDir: 'src',
 		pageSize: 5,
-		startPage: 0
+		startPage: 0,
+		breakpoint: {
+			thresholds: {
+			  xs: 420, // these are highly recommended values
+			  sm: 720, // default values are shown in
+			  md: 960, // https://vuetifyjs.com/en/customization/breakpoints
+			  lg: 1280
+			}
+		  }
 	},
 	plugins: [
 		[
