@@ -13,10 +13,13 @@ module.exports = {
     	searchMaxSuggestions: 10,
 		sidebar: 'auto',
 		nav: [
-			{ text: 'Times', link: '/blog/'},
-			{ text: 'Sports', link: '/projects/' },
-			{ text: 'Misc', link: '/misc/'},
-			{ text: 'Tags', link: '/tags/'},
+			{ text: 'Blog', link: '/blog/'},
+			{ text: 'Tags', items: [
+				{ text: 'All Tags', link: '/tags/'},
+				{ text: 'Times', link: '/tags/#stateofthetimes'},
+				{ text: 'Sports', link: '/tags/#sports' },
+				{ text: 'Misc', link: '/tags/#misc'},
+			]},
 			{ text: 'Archive', link: '/archive/'},
 			{ text: 'About', link: '/about' },
 		],

@@ -6,6 +6,7 @@ type: blog
 blog: true
 hidden: false
 tags:
+    - misc
     - work
     - communication
 ---
