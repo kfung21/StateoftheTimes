@@ -1,7 +1,7 @@
 ---
 title: Jokes [Reader's Digest]
 date: 6-26-2020
-tags: ["communications"]
+tags: ["communication"]
 author: NCT
 blog: true
 sidebardepth: 2

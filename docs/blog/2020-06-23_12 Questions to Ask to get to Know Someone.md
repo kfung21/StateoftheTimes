@@ -1,7 +1,7 @@
 ---
 title: Good Questions to Get to Know Someone
 date: 6-23-2020
-tags: ["communications", "relationships"]
+tags: ["communication", "relationships"]
 author: NCT
 blog: true
 sidebardepth: 2

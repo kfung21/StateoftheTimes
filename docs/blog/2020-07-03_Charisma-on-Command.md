@@ -6,7 +6,7 @@ type: blog
 blog: true
 hidden: false
 sidebar: auto
-tags: ['living,', 'communication,', 'relationships']
+tags: ['living', 'communication', 'relationships']
 ---
 <TagLinks />
 
